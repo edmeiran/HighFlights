@@ -36,42 +36,42 @@ section{
 
 h1 {
     position: absolute;
-width: 365px;
-height: 114px;
-left: 58px;
-top: 28px;
+width: 365%;
+height: 114%;
+left: 58%;
+top: 28%;
 
 font-family: Reem Kufi;
 font-style: normal;
 font-weight: normal;
-font-size: 72px;
-line-height: 108px;
+font-size: 650%;
+line-height: 196%;
     position: absolute;
-width: 1400px;
-height: 100px;
-left: 20px;
-top: 30px;
+width: 98.4%;
+height: 10%;
+left: 0.8%;
+top: 2.1%;
 
-border: 1px solid #000000;
+border: 2px solid #000000;
 box-sizing: border-box;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+box-shadow: 0% 4% 4% rgba(0, 0, 0, 0.25);
 }
 
 h2{
 
 
     position: absolute;
-    width: 75px;
-    height: 30px;
-    left: 851.06px;
-    top: 64px;
+    width: 30%;
+    height: 2.8%;
+    left: 33.4%;
+    top: 5.3%;
     
     
     font-family: Nunito Sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 22px;
+    font-size: 200%;
+    line-height: 2%;
     
     
     display: flex;
@@ -86,21 +86,22 @@ h2{
     
     }
     
+
     h3 {
     
     
     position: absolute;
-    width: 49px;
-    height: 12px;
-    left: 10px;
-    top: 10px;
+    width: 49%;
+    height: 12%;
+    left: 10%;
+    top: 10%;
     
     
     font-family: Nunito Sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 22px;
+    font-size: 200%;
+    line-height: 22%;
     
     
     display: flex;
@@ -112,21 +113,21 @@ h2{
     
     
     flex: none;
-    order: 0;
-    flex-grow: 0;
-    margin: 0px 10px;
+    order: 0%;
+    flex-grow: 0%;
+    margin: 0% 0.4%;
     
     
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 16px;
+    padding: 0.5%;
     
     position: absolute;
-    width: 485px;
-    height: 100px;
-    left: 926px;
-    top: 35px;
+    width: 485%;
+    height: 7.5%;
+    left: 36.3%;
+    top: 2.9%;
     }
     
     h4 { 
@@ -330,3 +331,7 @@ h8 {
     padding: 8px 0;
 }
 
+
+a{
+    
+}
