@@ -133,7 +133,7 @@ h2{
     h4 { 
     
     position: absolute;
-    width: 485%;
+    width: 75px;
     height: 45px;
     left: 1021px;
     top: 64px;
@@ -234,7 +234,7 @@ h7 {
     box-sizing: border-box;
     box-shadow: 8px 8px 50px #000;
 }
-/*Sign in */
+   
 h8 {
     margin: 0;
     padding: 0;
@@ -303,7 +303,7 @@ h8 {
 .bottom-text a{
     float: right;
 }
-/*Social media*/
+
 .socials{
     margin-top: 12%;
     text-align: center;
