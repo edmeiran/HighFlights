@@ -322,3 +322,7 @@ h8 {
 .socials a i{
     padding: 8px 0;
 }
+
+li{
+	list-style: none;
+}

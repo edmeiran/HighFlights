@@ -237,3 +237,7 @@ h8 {
     margin-bottom: 8%;
     font-family:Courgette;
 }
+
+li{
+	list-style: none;
+}

@@ -92,7 +92,7 @@ h3 {
     width: 75px;
     height: 0.01%;
     left: 50%;
-    top: 6.5%;
+    top: 6%;
     
     
     font-family: Nunito Sans;
@@ -211,4 +211,8 @@ h7 {
     font-family: 'FreeMono', 'monospace';
     color: rgb(0, 0, 0);
     letter-spacing: 2.5px;
+}
+
+li{
+	list-style: none;
 }
