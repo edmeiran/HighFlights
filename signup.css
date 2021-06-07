@@ -263,8 +263,7 @@ h8 {
     background: #000000;
     color: rgb(255, 255, 255);
     font-size: 14px;
-    font-weight: bold;
-    
+    font-weight: bold; 
 }
 
 .wrapper input[type=submit]:hover{
@@ -294,33 +293,6 @@ h8 {
 
 .bottom-text a{
     float: right;
-}
-
-.socials{
-    margin-top: 12%;
-    text-align: center;
-}
-
-.socials a{
-    width: 30px;
-    height: 30px;
-    display: inline-block;
-    border: 1px solid #fff;
-    border-radius: 50%;
-    margin: 0 5px;
-}
-
-.socials a:nth-child(1){
-    background: #000000;
-}
-.socials a:nth-child(2){
-    background: #000000;
-}
-.socials a:nth-child(3){
-    background: #000000;
-}
-.socials a i{
-    padding: 8px 0;
 }
 
 li{
